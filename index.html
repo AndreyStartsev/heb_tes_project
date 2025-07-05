@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מבחן בעברית</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="quiz-container">
+        <h1 id="quiz-title">טוען מבחן...</h1>
+        <p id="quiz-intro" class="quiz-intro"></p>
+        
+        <div id="attempt-counter-display" class="attempt-counter"></div>
+
+        <form id="quiz-form"></form>
+
+        <div class="button-container">
+            <button type="button" class="submit-button" onclick="submitQuiz()">בדיקת תשובות</button>
+            <button type="button" class="reset-button" onclick="resetFullQuiz()" style="display: none;">התחל מבחן מחדש (איפוס מלא)</button>
+        </div>
+        
+        <div id="results-container" style="display: none;">
+            <h2>התוצאות שלך:</h2>
+            <p id="score-display"></p>
+            <div id="detailed-answers"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
