@@ -13,5 +13,30 @@
     "id": "quiz3",
     "title": "מבחן #3: סידור ספרייה",
     "file": "quiz3.json"
+  },
+  {
+    "id": "quiz4",
+    "title": "מבחן #4: תכנון טיול שנתי",
+    "file": "quiz4.json"
+  },
+  {
+    "id": "quiz5",
+    "title": "מבחן #5: ניהול בית קפה",
+    "file": "quiz5.json"
+  },
+  {
+    "id": "quiz6",
+    "title": "מבחן #6: יום בחוף הים",
+    "file": "quiz6.json"
+  },
+  {
+    "id": "quiz7",
+    "title": "מבחן #7: פרויקט בנייה",
+    "file": "quiz7.json"
+  },
+  {
+    "id": "quiz8",
+    "title": "מבחן #8: אימון ספורט",
+    "file": "quiz8.json"
   }
 ]
