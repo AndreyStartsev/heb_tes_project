@@ -10,5 +10,7 @@
   { "id": "quiz9", "title": "מבחן #9: מטבח ובישול", "file": "quiz9.json" },
   { "id": "quiz10", "title": "מבחן #10: כספים ובנקאות", "file": "quiz10.json" },
   { "id": "quiz11", "title": "מבחן #11: יום לימודים בכיתה", "file": "quiz11.json" },
-  { "id": "quiz12", "title": "מבחן #12: נסיעה במכונית", "file": "quiz12.json" }
+  { "id": "quiz12", "title": "מבחן #12: נסיעה במכונית", "file": "quiz12.json" },
+  { "id": "quiz13", "title": "מבחן #13: פרויקט אמנות", "file": "quiz13.json" },
+  { "id": "quiz14", "title": "מבחן #14: בריאות וכושר", "file": "quiz14.json" }
 ]
