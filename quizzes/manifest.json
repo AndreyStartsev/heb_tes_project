@@ -1,16 +1,72 @@
 [
-  { "id": "quiz1", "title": "מבחן #1: תכנון גינה ותקציב", "file": "quiz1.json" },
-  { "id": "quiz2", "title": "מבחן #2: יום בפארק השעשועים", "file": "quiz2.json" },
-  { "id": "quiz3", "title": "מבחן #3: סידור ספרייה", "file": "quiz3.json" },
-  { "id": "quiz4", "title": "מבחן #4: תכנון טיול שנתי", "file": "quiz4.json" },
-  { "id": "quiz5", "title": "מבחן #5: ניהול בית קפה", "file": "quiz5.json" },
-  { "id": "quiz6", "title": "מבחן #6: יום בחוף הים", "file": "quiz6.json" },
-  { "id": "quiz7", "title": "מבחן #7: פרויקט בנייה", "file": "quiz7.json" },
-  { "id": "quiz8", "title": "מבחן #8: אימון ספורט", "file": "quiz8.json" },
-  { "id": "quiz9", "title": "מבחן #9: מטבח ובישול", "file": "quiz9.json" },
-  { "id": "quiz10", "title": "מבחן #10: כספים ובנקאות", "file": "quiz10.json" },
-  { "id": "quiz11", "title": "מבחן #11: יום לימודים בכיתה", "file": "quiz11.json" },
-  { "id": "quiz12", "title": "מבחן #12: נסיעה במכונית", "file": "quiz12.json" },
-  { "id": "quiz13", "title": "מבחן #13: פרויקט אמנות", "file": "quiz13.json" },
-  { "id": "quiz14", "title": "מבחן #14: בריאות וכושר", "file": "quiz14.json" }
+  {
+    "id": "quiz1",
+    "title": "מבחן #1: תכנון גינה ותקציב",
+    "file": "quiz1.json"
+  },
+  {
+    "id": "quiz2",
+    "title": "מבחן #2: יום בפארק השעשועים",
+    "file": "quiz2.json"
+  },
+  {
+    "id": "quiz3",
+    "title": "מבחן #3: סידור ספרייה",
+    "file": "quiz3.json"
+  },
+  {
+    "id": "quiz4",
+    "title": "מבחן #4: תכנון טיול שנתי",
+    "file": "quiz4.json"
+  },
+  {
+    "id": "quiz5",
+    "title": "מבחן #5: ניהול בית קפה",
+    "file": "quiz5.json"
+  },
+  {
+    "id": "quiz6",
+    "title": "מבחן #6: יום בחוף הים",
+    "file": "quiz6.json"
+  },
+  {
+    "id": "quiz7",
+    "title": "מבחן #7: פרויקט בנייה",
+    "file": "quiz7.json"
+  },
+  {
+    "id": "quiz8",
+    "title": "מבחן #8: אימון ספורט",
+    "file": "quiz8.json"
+  },
+  {
+    "id": "quiz9",
+    "title": "מבחן #9: מטבח ובישול",
+    "file": "quiz9.json"
+  },
+  {
+    "id": "quiz10",
+    "title": "מבחן #10: כספים ובנקאות",
+    "file": "quiz10.json"
+  },
+  {
+    "id": "quiz11",
+    "title": "מבחן #11: יום לימודים בכיתה",
+    "file": "quiz11.json"
+  },
+  {
+    "id": "quiz12",
+    "title": "מבחן #12: נסיעה במכונית",
+    "file": "quiz12.json"
+  },
+  {
+    "id": "quiz13",
+    "title": "מבחן #13: פרויקט אמנות",
+    "file": "quiz13.json"
+  },
+  {
+    "id": "quiz14",
+    "title": "מבחן #14: בריאות וכושר",
+    "file": "quiz14.json"
+  }
 ]
