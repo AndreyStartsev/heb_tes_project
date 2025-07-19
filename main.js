@@ -41,7 +41,14 @@ function getAllQuizResults() {
 // --- Main Lobby Logic ---
 async function initLobby() {
     try {
-        const response = await fetch('quizzes/manifest.json');
+        // === ИЗМЕНЕНИЕ ЗДЕСЬ ===
+        // Добавлена опция { cache: 'no-store' } для борьбы с кэшированием
+        const response = await fetch('quizzes/manifest.json', { cache: 'no-store' });
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
         const quizManifest = await response.json();
         const allResults = getAllQuizResults();
 
